@@ -1,4 +1,6 @@
 ---
-title: testovoe
+title: {{ title }}
+date: {{ date }}
+tags:
 ---
 # heh
