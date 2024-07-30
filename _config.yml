@@ -1,13 +1,14 @@
+
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo-test
-subtitle: hexo test blog
-description: hexo desc lulv
+title: Блог
+subtitle: 
+description: тестовый блог hexo+cactus-thema+vercel
 keywords:
-author: John Doe
+author: Nikita Sharapov
 language: ru
 timezone:
 
